@@ -1,14 +1,14 @@
 # What is the SO Close Vote Reviewers Chat Room?
 
 The [SO Close Vote Reviewers Chat Room](https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) 
-is a group of like-minded people who want to make a difference in the CV queue, 
-reviewing, and clean-up efforts.
+is a group of like-minded people who want to make a difference in the Close Vote(CV) queue. We also cover some aspects of basic user (non-moderator) moderation, including reviewing questions, answers and comments, as well as tag/question clean-up efforts.
  
 # <a id="TOC" href="#TOC" class="hover-visible"></a>Table Of Contents
 
-* <a id="TOC-quick-ref" href="#TOC-quick-ref" class="hover-visible"></a>[Quick Reference](#quick-reference)
-  * [General Expectations for Members](#general-expectations-for-members)
-  * [Expectations for Room Owners](#expectations-for-room-owners)
+* [Chat Room Decorum](#decorum)
+* [Moderation Request Rules](#moderation-rules) (i.e. rules around `[cv-pls]`)
+* [Q&A Interaction Rules](#qa-interaction-rules)
+* [Expectations for Room Owners](#expectations-for-room-owners)
 * <a id="TOC-common-questions" href="#TOC-common-questions" class="hover-visible"></a>[Common Questions](#common-questions)
   * [What is the SO Close Vote Reviewers Chat Room?](#what-is-the-so-close-vote-reviewers-chat-room-1)
   * [What sort of behavior is expected?](#what-sort-of-behavior-is-expected)
@@ -29,9 +29,7 @@ reviewing, and clean-up efforts.
   * [Where can I continue off-topic discussions?](#where-can-i-continue-off-topic-discussions)
   * [Any resources to help?](#any-resources-to-help)
 
-<h1 id="quick-reference"><a href="#quick-reference" class="hover-visible"></a>Quick Reference</h1>
-
-<h2 id="general-expectations-for-members"><a href="#general-expectations-for-members" class="hover-visible"></a>General Expectations for Members</h2>
+<h1 id="decorum"><a href="#decorum" class="hover-visible"></a>Chat Room Decorum</h1>
 
 <a id="GEfM-stay-nice" href="#GEfM-stay-nice" class="hover-visible"></a>Stay nice and professional in chat:
 
@@ -58,9 +56,11 @@ reviewing, and clean-up efforts.
    like `look at [this post](https://www.example.com/)`.
 8. <a id="GEfM-no-GIFs" href="#GEfM-no-GIFs" class="hover-visible"></a>No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
 
+<h1 id="moderation-rules"><a href="#moderation-rules" class="hover-visible"></a>Moderation Request Rules</h1>
+
 <a id="GEfM-what-room-moderates" href="#GEfM-what-room-moderates" class="hover-visible"></a>Know what the room moderates:
 
-9. <a id="GEfM-moderate-content-NOT-other" href="#GEfM-moderate-content-NOT-other" class="hover-visible"></a><a id="modCont"></a>We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
+1. <a id="GEfM-moderate-content-NOT-other" href="#GEfM-moderate-content-NOT-other" class="hover-visible"></a><a id="modCont"></a>We moderate the content of posts on Stack Overflow (closure/edit/review/delete). This means 
    that we *DO NOT* moderate:
    * User accounts (even if they are posting spam)
    * Other chat rooms
@@ -69,11 +69,11 @@ reviewing, and clean-up efforts.
 
 <a id="GEfM-responsible-moderation-requests" href="#GEfM-responsible-moderation-requests" class="hover-visible"></a><a id="respModReq"></a>Be responsible with moderation requests:
 
-10. <a id="GEfM-no-up-down-vote-requests" href="#GEfM-no-up-down-vote-requests" class="hover-visible"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. While Shog9 has allowed organized voting in chat 
+2. <a id="GEfM-no-up-down-vote-requests" href="#GEfM-no-up-down-vote-requests" class="hover-visible"></a><a id="noUDVReq"></a>Do not ask for up- or down-votes on any posts. While Shog9 has allowed organized voting in chat 
     rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of 
     support from the community at large. As such, we don't want anything in the transcript that 
     could be perceived as us treating people unfairly.
-11. <a id="GEfM-cv-pls-not-a-habit" href="#GEfM-cv-pls-not-a-habit" class="hover-visible"></a><a id="not-habit"></a>Moderation requests (e.g. [`cv-pls`](https://meta.stackoverflow.com/a/262359), `del-pls`, etc.) should **not** be a habit for users. 
+3. <a id="GEfM-cv-pls-not-a-habit" href="#GEfM-cv-pls-not-a-habit" class="hover-visible"></a><a id="not-habit"></a>Moderation requests (e.g. [`cv-pls`](https://meta.stackoverflow.com/a/262359), `del-pls`, etc.) should **not** be a habit for users. 
     - `cv-pls`: Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
    cv-pls is for questions that:
       - are _really_ bad (low quality magnets)
@@ -84,17 +84,17 @@ reviewing, and clean-up efforts.
     "If there's something really bad and it has to go, then get it gone - otherwise, don't sweat the small stuff, it'll end up gone eventually - and if no one's seeing it - who cares?" <sup>[source](https://chat.stackoverflow.com/transcript/108179?m=39907227#39907227)</sup>   
     del-pls is for posts that:
       - are _really_ bad, but which don't quite make it to abusive/spam (use flags for those)
-12. <a id="GEfM-limit-your-requests" href="#GEfM-limit-your-requests" class="hover-visible"></a><a id="ReqLimits"></a>Limit the number of requests you make, particularly `cv-pls` requests, to "reasonable" numbers and rates of posting. The exact limits are *not specified*.  
+4. <a id="GEfM-limit-your-requests" href="#GEfM-limit-your-requests" class="hover-visible"></a><a id="ReqLimits"></a>Limit the number of requests you make, particularly `cv-pls` requests, to "reasonable" numbers and rates of posting. The exact limits are *not specified*.  
     As to posting them too fast or too many in a row: People in the room start to notice that you're posting a lot of requests if it's more than about 5 in a row. It is suggested that you space out your requests over time.  
     As to limiting the overall number that you post: Posting a `cv-pls` request is, basically, asking 4 other people to review and vote-to-close (VtC) the question. As such, the process of having `cv-pls` requests in SOCVR *can't work* unless people VtC on about 4 times as many `cv-pls` from other people than they post themselves, which means reviewing more than that number of questions, on average, as you won't necessarily VtC each question you review.  
     As a result, this means that *if* you are routinely spending all 50 of your daily close-votes on questions which have been `cv-pls`ed (your own and others), then, *on average*, you should not post more than 10 `cv-pls` requests per day (e.g. You VtC on your 10 `cv-pls` requests and 40 `cv-pls` requests from other people, consuming all 50 of your close-votes for the day). It's relatively rare that someone routinely uses all of their close-votes only on `cv-pls` requests. So, an average of 10 `cv-pls` requests per day is just the maximum which is possibly maintainable, if the user is putting the same number of close-votes into `cv-pls` requests as they are asking from other people by the `cv-pls` requests that they post.  
     Any `cv-pls` requests you post which are for questions reported to the room by the various bots (e.g. FireAlarm & SmokeDetector) are not counted when considering the above limits. Please indicate in the request reason that the source was one of the bots (e.g. with something similar to "(FireAlarm)" or "(SD report)" added to the request reason). Evaluating such questions and determining if a `cv-pls is appropriate is considered a service that is beneficial to the room.
-13. <a id="GEfM-cv-pls-not-stab" href="#GEfM-cv-pls-not-stab" class="hover-visible"></a><a id="notStab"></a>Members are not required to close-vote any particular post you bring up. Furthermore, do not pressure anyone 
+5. <a id="GEfM-cv-pls-not-stab" href="#GEfM-cv-pls-not-stab" class="hover-visible"></a><a id="notStab"></a>Members are not required to close-vote any particular post you bring up. Furthermore, do not pressure anyone 
     into doing so. `cv-pls` means "close-vote please", not "close-vote or I'll stab you." This applies to all types of requests.
-14. <a id="GEfM-avoid-extended-individual-cv-pls-discussion" href="#GEfM-avoid-extended-individual-cv-pls-discussion" class="hover-visible"></a><a id="limitReqDis"></a>Avoid extended discussion about requests. We don't have to agree about a close/delete request. We're 
+6. <a id="GEfM-avoid-extended-individual-cv-pls-discussion" href="#GEfM-avoid-extended-individual-cv-pls-discussion" class="hover-visible"></a><a id="limitReqDis"></a>Avoid extended discussion about requests. We don't have to agree about a close/delete request. We're 
     not a democracy. However, users posting requests that are blatantly wrong will be 
     told so. The final verdict is on the RO team.
-15. <a id="GEfM-no-requests-youre-involved" href="#GEfM-no-requests-youre-involved" class="hover-visible"></a><a id="noSelf"></a>Do not request action on posts or edits where you are involved or where you have a conflict of interest.
+7. <a id="GEfM-no-requests-youre-involved" href="#GEfM-no-requests-youre-involved" class="hover-visible"></a><a id="noSelf"></a>Do not request action on posts or edits where you are involved or where you have a conflict of interest.
     * For questions and answers: You are "involved" in the question and all answers to the question if you are the author of the question or the author of any non-deleted, non-community-wiki answer on the question.
     * For requests about edits, you are involved if you are the author of the post or the author of the edit.
     * Being the author of a proposed duplicate-target question or an answer on the duplicate-target does not, by itself, make you "involved" in a question which you are requesting be closed as a duplicate (i.e. you can request duplicate-closure with a question you asked or answered as the duplicate-target, if that's your only involvement).
@@ -108,15 +108,15 @@ reviewing, and clean-up efforts.
        * Evaluate each instance on a case-by-case basis.
        * ROs may, or may not, move a message that is worded as an explicit or implied request out of the room, at their discretion. If the RO does move it, they should make an effort to explain why, maintain the context of the discussion (e.g. add a message saying the discussion is about question X, with a link to it), and try to focus the new user on discussion of their question/issue.
        * ROs should explain to the user that, in the future, actual requests for action on posts the user is involved with are not permitted, but that discussions about their posts are permitted. However, explaining this should be secondary to actually addressing the user's concerns, even if the only thing that can be done is to point them at meta, suggest flagging, and/or that they use the contact page to contact SE.
-16. <a id="GEfM-no-boom" href="#GEfM-no-boom" class="hover-visible"></a><a id="no-boom"></a>Do not post feedback on success (or failure) of a request. (I.e., no "boom"ing.)
-17. <a id="GEfM-no-retag-so-can-hammer" href="#GEfM-no-retag-so-can-hammer" class="hover-visible"></a><a id="noRetagHammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
-18. <a id="GEfM-no-mod-ping" href="#GEfM-no-mod-ping" class="hover-visible"></a>[Pinging moderators](https://meta.stackexchange.com/a/126990/158100) for anything that could be handled with a flag is not acceptable, nor is changing the topic of conversation with a moderator to be about a flaggable issue. It is fine to *continue* a discussion topic introduced by a moderator, even if you beginning that discussion would otherwise not be permitted. 
+8. <a id="GEfM-no-boom" href="#GEfM-no-boom" class="hover-visible"></a><a id="no-boom"></a>Do not post feedback on success (or failure) of a request. (i.e., don't exclaim "boom!" when a moderation request is carried out)
+9. <a id="GEfM-no-retag-so-can-hammer" href="#GEfM-no-retag-so-can-hammer" class="hover-visible"></a><a id="noRetagHammer"></a>Do not request to re-tag a post so you can use your dupe-hammer.
+10. <a id="GEfM-no-mod-ping" href="#GEfM-no-mod-ping" class="hover-visible"></a>[Pinging moderators](https://meta.stackexchange.com/a/126990/158100) for anything that could be handled with a flag is not acceptable, nor is changing the topic of conversation with a moderator to be about a flaggable issue. It is fine to *continue* a discussion topic introduced by a moderator, even if you beginning that discussion would otherwise not be permitted. If a Room Owner is also a moderator, it is acceptable to ping them for normal RO activities (i.e. you need your request binned)
 
 <a id="GEfM-dont-moderate-users" href="#GEfM-dont-moderate-users" class="hover-visible"></a><a id="noModUsers"></a>Don't moderate users:
 
-19. <a id="GEfM-moderate-post-not-user" href="#GEfM-moderate-post-not-user" class="hover-visible"></a><a id="modPost"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
+11. <a id="GEfM-moderate-post-not-user" href="#GEfM-moderate-post-not-user" class="hover-visible"></a><a id="modPost"></a>Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior 
     of the user.
-20. <a id="GEfM-dont-target-users" href="#GEfM-dont-target-users" class="hover-visible"></a><a id="no-tar-users"></a>Targeting users for moderation requests is forbidden. Behavior will be considered user targeting at the discretion of the ROs.  
+12. <a id="GEfM-dont-target-users" href="#GEfM-dont-target-users" class="hover-visible"></a><a id="no-tar-users"></a>Targeting users for moderation requests is forbidden. Behavior will be considered user targeting at the discretion of the ROs.  
     Basically, if you're moderating content and not users, this rule should not be an issue. The most common thing people do which runs contrary to this rule is to go through a user's profile pages looking for posts to moderate. You shouldn't do that, but if you do, then don't post requests in SOCVR about more than one post by the user.  
     Keep in mind that we are concerned about both not actually targeting users, and not having the  *appearance* of targeting users. Thus, what's considered acceptable is conservative.  
     What observable behavior actually constitutes user targeting is left up to the discretion of the ROs. Possible user targeting is detected automatically (some types), by the ROs going through requests, through reports by other users, etc. An RO will investigate suspected user targeting. Under most conditions, this will normally include asking you what's going on.  
@@ -124,31 +124,34 @@ reviewing, and clean-up efforts.
     Some examples of behaviors that are considered targeting a user, which are thus forbidden [The examples below are *not* all inclusive.]:
     * Posting multiple successive moderation requests for questions/answers/edits by the same user. There are some *very limited* cases where more than one request about posts by the same user in a short time are acceptable (e.g. where the user has posted a duplicate of their own off-topic question).
     * Posting multiple moderation requests for questions which a specific user has answered.
+    
+<a id="GEfM-general" href="#GEfM-general" class="hover-visible"></a><a id="genNumbered"></a>General:
 
-<a id="GEfM-nice-and-professional" href="#GEfM-nice-and-professional" class="hover-visible"></a><a id="prof"></a>Stay nice and professional when on a post:
+13. <a id="GEfM-no-sneaky-manipulative" href="#GEfM-no-sneaky-manipulative" class="hover-visible"></a><a id="noSneak"></a>Don't do sneaky or manipulative actions to get around the rules.  
+    While you might get away with something once or twice, people in the room *will* notice and be upset/frustrated by it. Examples of such actions include:
+    * Edit an old question that's not currently "active" to qualify it(under [Moderation Rule #3](#GEfM-cv-pls-not-a-habit)), as active, thus allowing you to make a `cv-pls` request for an old question.
+    * Deleting your answer, making a `cv-pls` request for the question, and then undeleting your answer after the question is closed.
 
-21. <a id="GEfM-try-to-save-content" href="#GEfM-try-to-save-content" class="hover-visible"></a><a id="saveCont"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
+<h1 id="qa-interaction-rules"><a href="#qa-interaction" class="hover-visible"></a>Q&A Interaction rules</h1>
+
+<a id="GEfM-nice-and-professional" href="#GEfM-nice-and-professional" class="hover-visible"></a><a id="prof"></a>Stay nice and professional (aka Welcoming) when on a post:
+
+1. <a id="GEfM-try-to-save-content" href="#GEfM-try-to-save-content" class="hover-visible"></a><a id="saveCont"></a>Work **with** the OP to get their post into shape. Most content has some value. Save it before
     you try to destroy it.
-22. <a id="GEfM-only-one-member-on-post" href="#GEfM-only-one-member-on-post" class="hover-visible"></a><a id="oneMember"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
+2. <a id="GEfM-only-one-member-on-post" href="#GEfM-only-one-member-on-post" class="hover-visible"></a><a id="oneMember"></a>A post is to be actively handled by **only one** member of the room. We don't need 4 members all 
     leaving witty statements in the comments or in chat.
-23. <a id="GEfM-if-comment-interact-with-OP" href="#GEfM-if-comment-interact-with-OP" class="hover-visible"></a><a id="commentWOP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
+3. <a id="GEfM-if-comment-interact-with-OP" href="#GEfM-if-comment-interact-with-OP" class="hover-visible"></a><a id="commentWOP"></a>If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases 
     be nice and helpful.
 
 <a id="GEfM-understand-relationship-with-meta" href="#GEfM-understand-relationship-with-meta" class="hover-visible"></a><a id="relMeta"></a>Understand our relationship with Meta:
 
-24. <a id="GEfM-members-are-accountable" href="#GEfM-members-are-accountable" class="hover-visible"></a><a id="accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
-25. <a id="GEfM-dont-jump-bandwagon" href="#GEfM-dont-jump-bandwagon" class="hover-visible"></a><a id="noBandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), especially on 
+4. <a id="GEfM-members-are-accountable" href="#GEfM-members-are-accountable" class="hover-visible"></a><a id="accountable"></a>All members are accountable for their actions if/when such accountability is requested on meta.
+5. <a id="GEfM-dont-jump-bandwagon" href="#GEfM-dont-jump-bandwagon" class="hover-visible"></a><a id="noBandwagon"></a>Don't [jump on the bandwagon](https://en.wiktionary.org/wiki/jump_on_the_bandwagon), especially on 
     meta. The room is scrutinized on meta, not the other way around. 
-26. <a id="GEfM-burnination-must-meta" href="#GEfM-burnination-must-meta" class="hover-visible"></a><a id="toBurnMustMeta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
+6. <a id="GEfM-burnination-must-meta" href="#GEfM-burnination-must-meta" class="hover-visible"></a><a id="toBurnMustMeta"></a>Tag burnination requests and tag cleanup requests _must_ be backed by an 
     [MSO](https://meta.stackoverflow.com) post that follows the 
     [tag burning process](https://meta.stackoverflow.com/q/324070).
 
-<a id="GEfM-general" href="#GEfM-general" class="hover-visible"></a><a id="genNumbered"></a>General:
-
-27. <a id="GEfM-no-sneaky-manipulative" href="#GEfM-no-sneaky-manipulative" class="hover-visible"></a><a id="noSneak"></a>Don't do sneaky or manipulative actions to get around the rules.  
-    While you might get away with something once or twice, people in the room *will* notice and be upset/frustrated by it. Examples of such actions include:
-    * Edit an old question that's not currently "active" to qualify it, under [FAQ #11](#GEfM-cv-pls-not-a-habit), as active, thus allowing you to make a `cv-pls` request for an old question.
-    * Deleting your answer, making a `cv-pls` request for the question, and then undeleting your answer after the question is closed.
 
 <h2 id="expectations-for-room-owners"><a href="#expectations-for-room-owners" class="hover-visible"></a>Expectations for Room Owners</h2>
 
@@ -182,7 +185,7 @@ the community on Stack Overflow and encourage our members to help us create a
 guidance toolkit that enables all of us to fulfill those needs.
 
 **No matter what is asked from us, we moderate the post and educate the user, 
-the [be nice policy][2] is our bible.**
+the [SO Code of Conduct][2] is our bible.**
 
 Do not advertise or make a reference the room out of the blue. If it is relevant 
 to the conversation at hand, fine, but on Stack Overflow, don't say anything unless 
